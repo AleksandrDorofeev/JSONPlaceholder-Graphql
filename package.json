@@ -1,0 +1,41 @@
+{
+  "name": "jsonplaceholder-graphql",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "jest": {
+    "coverageThreshold": {
+      "global": {
+        "branches": 80,
+        "functions": 80,
+        "lines": 80,
+        "statements": -10
+      }
+    }
+  },
+  "scripts": {
+    "start": "npm run serve",
+    "build": "npm run build-ts",
+    "serve": "node dist/server.js",
+    "dev": "nodemon src/server.js",
+    "build-ts": "tsc",
+    "watch-ts": "tsc -w",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "apollo-server-testing": "^2.14.4",
+    "eslint": "^7.2.0",
+    "jest": "^26.0.1",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "apollo-server-express": "^2.14.4",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "graphql": "^15.1.0"
+  }
+}

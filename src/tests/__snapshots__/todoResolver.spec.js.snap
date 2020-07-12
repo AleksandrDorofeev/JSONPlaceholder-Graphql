@@ -1,0 +1,295 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[testing todo queries] GET_ALL_TODOS 1`] = `
+Object {
+  "data": Object {
+    "todos": Array [
+      Object {
+        "completed": false,
+        "id": "1",
+        "title": "delectus aut autem",
+        "userId": "1",
+      },
+      Object {
+        "completed": false,
+        "id": "2",
+        "title": "quis ut nam facilis et officia qui",
+        "userId": "1",
+      },
+      Object {
+        "completed": false,
+        "id": "3",
+        "title": "fugiat veniam minus",
+        "userId": "1",
+      },
+      Object {
+        "completed": true,
+        "id": "4",
+        "title": "et porro tempora",
+        "userId": "1",
+      },
+      Object {
+        "completed": false,
+        "id": "5",
+        "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+        "userId": "1",
+      },
+      Object {
+        "completed": false,
+        "id": "6",
+        "title": "qui ullam ratione quibusdam voluptatem quia omnis",
+        "userId": "1",
+      },
+      Object {
+        "completed": false,
+        "id": "7",
+        "title": "illo expedita consequatur quia in",
+        "userId": "1",
+      },
+      Object {
+        "completed": true,
+        "id": "8",
+        "title": "quo adipisci enim quam ut ab",
+        "userId": "1",
+      },
+      Object {
+        "completed": false,
+        "id": "9",
+        "title": "molestiae perspiciatis ipsa",
+        "userId": "1",
+      },
+      Object {
+        "completed": true,
+        "id": "10",
+        "title": "illo est ratione doloremque quia maiores aut",
+        "userId": "1",
+      },
+      Object {
+        "completed": true,
+        "id": "11",
+        "title": "vero rerum temporibus dolor",
+        "userId": "1",
+      },
+      Object {
+        "completed": true,
+        "id": "12",
+        "title": "ipsa repellendus fugit nisi",
+        "userId": "1",
+      },
+      Object {
+        "completed": false,
+        "id": "13",
+        "title": "et doloremque nulla",
+        "userId": "1",
+      },
+      Object {
+        "completed": true,
+        "id": "14",
+        "title": "repellendus sunt dolores architecto voluptatum",
+        "userId": "1",
+      },
+      Object {
+        "completed": true,
+        "id": "15",
+        "title": "ab voluptatum amet voluptas",
+        "userId": "1",
+      },
+      Object {
+        "completed": true,
+        "id": "16",
+        "title": "accusamus eos facilis sint et aut voluptatem",
+        "userId": "1",
+      },
+      Object {
+        "completed": true,
+        "id": "17",
+        "title": "quo laboriosam deleniti aut qui",
+        "userId": "1",
+      },
+      Object {
+        "completed": false,
+        "id": "18",
+        "title": "dolorum est consequatur ea mollitia in culpa",
+        "userId": "1",
+      },
+      Object {
+        "completed": true,
+        "id": "19",
+        "title": "molestiae ipsa aut voluptatibus pariatur dolor nihil",
+        "userId": "1",
+      },
+      Object {
+        "completed": true,
+        "id": "20",
+        "title": "ullam nobis libero sapiente ad optio sint",
+        "userId": "1",
+      },
+      Object {
+        "completed": false,
+        "id": "21",
+        "title": "suscipit repellat esse quibusdam voluptatem incidunt",
+        "userId": "2",
+      },
+      Object {
+        "completed": true,
+        "id": "22",
+        "title": "distinctio vitae autem nihil ut molestias quo",
+        "userId": "2",
+      },
+      Object {
+        "completed": false,
+        "id": "23",
+        "title": "et itaque necessitatibus maxime molestiae qui quas velit",
+        "userId": "2",
+      },
+      Object {
+        "completed": false,
+        "id": "24",
+        "title": "adipisci non ad dicta qui amet quaerat doloribus ea",
+        "userId": "2",
+      },
+      Object {
+        "completed": true,
+        "id": "25",
+        "title": "voluptas quo tenetur perspiciatis explicabo natus",
+        "userId": "2",
+      },
+      Object {
+        "completed": true,
+        "id": "26",
+        "title": "aliquam aut quasi",
+        "userId": "2",
+      },
+      Object {
+        "completed": true,
+        "id": "27",
+        "title": "veritatis pariatur delectus",
+        "userId": "2",
+      },
+      Object {
+        "completed": false,
+        "id": "28",
+        "title": "nesciunt totam sit blanditiis sit",
+        "userId": "2",
+      },
+      Object {
+        "completed": false,
+        "id": "29",
+        "title": "laborum aut in quam",
+        "userId": "2",
+      },
+      Object {
+        "completed": true,
+        "id": "30",
+        "title": "nemo perspiciatis repellat ut dolor libero commodi blanditiis omnis",
+        "userId": "2",
+      },
+      Object {
+        "completed": false,
+        "id": "31",
+        "title": "repudiandae totam in est sint facere fuga",
+        "userId": "2",
+      },
+      Object {
+        "completed": false,
+        "id": "32",
+        "title": "earum doloribus ea doloremque quis",
+        "userId": "2",
+      },
+      Object {
+        "completed": false,
+        "id": "33",
+        "title": "sint sit aut vero",
+        "userId": "2",
+      },
+      Object {
+        "completed": false,
+        "id": "34",
+        "title": "porro aut necessitatibus eaque distinctio",
+        "userId": "2",
+      },
+      Object {
+        "completed": true,
+        "id": "35",
+        "title": "repellendus veritatis molestias dicta incidunt",
+        "userId": "2",
+      },
+      Object {
+        "completed": true,
+        "id": "36",
+        "title": "excepturi deleniti adipisci voluptatem et neque optio illum ad",
+        "userId": "2",
+      },
+      Object {
+        "completed": false,
+        "id": "37",
+        "title": "sunt cum tempora",
+        "userId": "2",
+      },
+      Object {
+        "completed": false,
+        "id": "38",
+        "title": "totam quia non",
+        "userId": "2",
+      },
+      Object {
+        "completed": false,
+        "id": "39",
+        "title": "doloremque quibusdam asperiores libero corrupti illum qui omnis",
+        "userId": "2",
+      },
+      Object {
+        "completed": true,
+        "id": "40",
+        "title": "totam atque quo nesciunt",
+        "userId": "2",
+      },
+    ],
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;
+
+exports[`[testing todo queries] GET_ONE_TODO with existing todo 1`] = `
+Object {
+  "data": Object {
+    "todo": Object {
+      "completed": false,
+      "id": "1",
+      "title": "delectus aut autem",
+      "userId": "1",
+    },
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;
+
+exports[`[testing todo queries] GET_ONE_TODO with not existing todo 1`] = `
+Object {
+  "data": Object {
+    "todo": Object {
+      "error": "Error",
+      "message": "Todo with the id 999 not exists",
+    },
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;

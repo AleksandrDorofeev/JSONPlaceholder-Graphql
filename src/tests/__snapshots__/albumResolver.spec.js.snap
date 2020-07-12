@@ -1,0 +1,828 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[testing album queries] GET_ALL_ALBUMS 1`] = `
+Object {
+  "data": Object {
+    "albums": Array [
+      Object {
+        "id": "1",
+        "photos": Array [
+          Object {
+            "albumId": "1",
+            "title": "accusamus beatae ad facilis cum similique qui sunt",
+            "url": "https://via.placeholder.com/600/92c952",
+          },
+          Object {
+            "albumId": "1",
+            "title": "reprehenderit est deserunt velit ipsam",
+            "url": "https://via.placeholder.com/600/771796",
+          },
+          Object {
+            "albumId": "1",
+            "title": "officia porro iure quia iusto qui ipsa ut modi",
+            "url": "https://via.placeholder.com/600/24f355",
+          },
+          Object {
+            "albumId": "1",
+            "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+            "url": "https://via.placeholder.com/600/d32776",
+          },
+          Object {
+            "albumId": "1",
+            "title": "natus nisi omnis corporis facere molestiae rerum in",
+            "url": "https://via.placeholder.com/600/f66b97",
+          },
+          Object {
+            "albumId": "1",
+            "title": "accusamus ea aliquid et amet sequi nemo",
+            "url": "https://via.placeholder.com/600/56a8c2",
+          },
+          Object {
+            "albumId": "1",
+            "title": "officia delectus consequatur vero aut veniam explicabo molestias",
+            "url": "https://via.placeholder.com/600/b0f7cc",
+          },
+          Object {
+            "albumId": "1",
+            "title": "aut porro officiis laborum odit ea laudantium corporis",
+            "url": "https://via.placeholder.com/600/54176f",
+          },
+          Object {
+            "albumId": "1",
+            "title": "qui eius qui autem sed",
+            "url": "https://via.placeholder.com/600/51aa97",
+          },
+          Object {
+            "albumId": "1",
+            "title": "beatae et provident et ut vel",
+            "url": "https://via.placeholder.com/600/810b14",
+          },
+          Object {
+            "albumId": "1",
+            "title": "nihil at amet non hic quia qui",
+            "url": "https://via.placeholder.com/600/1ee8a4",
+          },
+          Object {
+            "albumId": "1",
+            "title": "mollitia soluta ut rerum eos aliquam consequatur perspiciatis maiores",
+            "url": "https://via.placeholder.com/600/66b7d2",
+          },
+          Object {
+            "albumId": "1",
+            "title": "repudiandae iusto deleniti rerum",
+            "url": "https://via.placeholder.com/600/197d29",
+          },
+          Object {
+            "albumId": "1",
+            "title": "est necessitatibus architecto ut laborum",
+            "url": "https://via.placeholder.com/600/61a65",
+          },
+          Object {
+            "albumId": "1",
+            "title": "harum dicta similique quis dolore earum ex qui",
+            "url": "https://via.placeholder.com/600/f9cee5",
+          },
+          Object {
+            "albumId": "1",
+            "title": "iusto sunt nobis quasi veritatis quas expedita voluptatum deserunt",
+            "url": "https://via.placeholder.com/600/fdf73e",
+          },
+          Object {
+            "albumId": "1",
+            "title": "natus doloribus necessitatibus ipsa",
+            "url": "https://via.placeholder.com/600/9c184f",
+          },
+          Object {
+            "albumId": "1",
+            "title": "laboriosam odit nam necessitatibus et illum dolores reiciendis",
+            "url": "https://via.placeholder.com/600/1fe46f",
+          },
+          Object {
+            "albumId": "1",
+            "title": "perferendis nesciunt eveniet et optio a",
+            "url": "https://via.placeholder.com/600/56acb2",
+          },
+          Object {
+            "albumId": "1",
+            "title": "assumenda voluptatem laboriosam enim consequatur veniam placeat reiciendis error",
+            "url": "https://via.placeholder.com/600/8985dc",
+          },
+          Object {
+            "albumId": "1",
+            "title": "ad et natus qui",
+            "url": "https://via.placeholder.com/600/5e12c6",
+          },
+          Object {
+            "albumId": "1",
+            "title": "et ea illo et sit voluptas animi blanditiis porro",
+            "url": "https://via.placeholder.com/600/45601a",
+          },
+          Object {
+            "albumId": "1",
+            "title": "harum velit vero totam",
+            "url": "https://via.placeholder.com/600/e924e6",
+          },
+          Object {
+            "albumId": "1",
+            "title": "beatae officiis ut aut",
+            "url": "https://via.placeholder.com/600/8f209a",
+          },
+          Object {
+            "albumId": "1",
+            "title": "facere non quis fuga fugit vitae",
+            "url": "https://via.placeholder.com/600/5e3a73",
+          },
+          Object {
+            "albumId": "1",
+            "title": "asperiores nobis voluptate qui",
+            "url": "https://via.placeholder.com/600/474645",
+          },
+          Object {
+            "albumId": "1",
+            "title": "sit asperiores est quos quis nisi veniam error",
+            "url": "https://via.placeholder.com/600/c984bf",
+          },
+          Object {
+            "albumId": "1",
+            "title": "non neque eligendi molestiae repudiandae illum voluptatem qui aut",
+            "url": "https://via.placeholder.com/600/392537",
+          },
+          Object {
+            "albumId": "1",
+            "title": "aut ipsam quos ab placeat omnis",
+            "url": "https://via.placeholder.com/600/602b9e",
+          },
+          Object {
+            "albumId": "1",
+            "title": "odio enim voluptatem quidem aut nihil illum",
+            "url": "https://via.placeholder.com/600/372c93",
+          },
+          Object {
+            "albumId": "1",
+            "title": "voluptate voluptates sequi",
+            "url": "https://via.placeholder.com/600/a7c272",
+          },
+          Object {
+            "albumId": "1",
+            "title": "ad enim dignissimos voluptatem similique",
+            "url": "https://via.placeholder.com/600/c70a4d",
+          },
+          Object {
+            "albumId": "1",
+            "title": "culpa ipsam nobis qui fuga magni et mollitia",
+            "url": "https://via.placeholder.com/600/501fe1",
+          },
+          Object {
+            "albumId": "1",
+            "title": "vitae est facere quia itaque adipisci perferendis id maiores",
+            "url": "https://via.placeholder.com/600/35185e",
+          },
+          Object {
+            "albumId": "1",
+            "title": "tenetur minus voluptatum et",
+            "url": "https://via.placeholder.com/600/c96cad",
+          },
+          Object {
+            "albumId": "1",
+            "title": "expedita rerum eaque",
+            "url": "https://via.placeholder.com/600/4d564d",
+          },
+          Object {
+            "albumId": "1",
+            "title": "totam voluptas iusto deserunt dolores",
+            "url": "https://via.placeholder.com/600/ea51da",
+          },
+          Object {
+            "albumId": "1",
+            "title": "natus magnam iure rerum pariatur molestias dolore nisi",
+            "url": "https://via.placeholder.com/600/4f5b8d",
+          },
+          Object {
+            "albumId": "1",
+            "title": "molestiae nam ullam et rerum doloribus",
+            "url": "https://via.placeholder.com/600/1e71a2",
+          },
+          Object {
+            "albumId": "1",
+            "title": "est quas voluptates dignissimos sint praesentium nisi recusandae",
+            "url": "https://via.placeholder.com/600/3a0b95",
+          },
+          Object {
+            "albumId": "1",
+            "title": "in voluptatem doloremque cum atque architecto deleniti",
+            "url": "https://via.placeholder.com/600/659403",
+          },
+          Object {
+            "albumId": "1",
+            "title": "voluptatibus a autem molestias voluptas architecto culpa",
+            "url": "https://via.placeholder.com/600/ca50ac",
+          },
+          Object {
+            "albumId": "1",
+            "title": "eius hic autem ad beatae voluptas",
+            "url": "https://via.placeholder.com/600/6ad437",
+          },
+          Object {
+            "albumId": "1",
+            "title": "neque eum provident et inventore sed ipsam dignissimos quo",
+            "url": "https://via.placeholder.com/600/29fe9f",
+          },
+          Object {
+            "albumId": "1",
+            "title": "praesentium fugit quis aut voluptatum commodi dolore corrupti",
+            "url": "https://via.placeholder.com/600/c4084a",
+          },
+          Object {
+            "albumId": "1",
+            "title": "quidem maiores in quia fugit dolore explicabo occaecati",
+            "url": "https://via.placeholder.com/600/e9b68",
+          },
+          Object {
+            "albumId": "1",
+            "title": "et soluta est",
+            "url": "https://via.placeholder.com/600/b4412f",
+          },
+          Object {
+            "albumId": "1",
+            "title": "ut esse id",
+            "url": "https://via.placeholder.com/600/68e0a8",
+          },
+          Object {
+            "albumId": "1",
+            "title": "quasi quae est modi quis quam in impedit",
+            "url": "https://via.placeholder.com/600/2cd88b",
+          },
+          Object {
+            "albumId": "1",
+            "title": "et inventore quae ut tempore eius voluptatum",
+            "url": "https://via.placeholder.com/600/9e59da",
+          },
+        ],
+        "title": "quidem molestiae enim",
+        "userId": "1",
+      },
+      Object {
+        "id": "2",
+        "photos": Array [
+          Object {
+            "albumId": "2",
+            "title": "non sunt voluptatem placeat consequuntur rem incidunt",
+            "url": "https://via.placeholder.com/600/8e973b",
+          },
+          Object {
+            "albumId": "2",
+            "title": "eveniet pariatur quia nobis reiciendis laboriosam ea",
+            "url": "https://via.placeholder.com/600/121fa4",
+          },
+          Object {
+            "albumId": "2",
+            "title": "soluta et harum aliquid officiis ab omnis consequatur",
+            "url": "https://via.placeholder.com/600/6efc5f",
+          },
+          Object {
+            "albumId": "2",
+            "title": "ut ex quibusdam dolore mollitia",
+            "url": "https://via.placeholder.com/600/aa8f2e",
+          },
+          Object {
+            "albumId": "2",
+            "title": "voluptatem consequatur totam qui aut iure est vel",
+            "url": "https://via.placeholder.com/600/5e04a4",
+          },
+          Object {
+            "albumId": "2",
+            "title": "vel voluptatem esse consequuntur est officia quo aut quisquam",
+            "url": "https://via.placeholder.com/600/f9f067",
+          },
+          Object {
+            "albumId": "2",
+            "title": "vero est optio expedita quis ut molestiae",
+            "url": "https://via.placeholder.com/600/95acce",
+          },
+          Object {
+            "albumId": "2",
+            "title": "rem pariatur facere eaque",
+            "url": "https://via.placeholder.com/600/cde4c1",
+          },
+          Object {
+            "albumId": "2",
+            "title": "modi totam dolor eaque et ipsum est cupiditate",
+            "url": "https://via.placeholder.com/600/a46a91",
+          },
+          Object {
+            "albumId": "2",
+            "title": "ea enim temporibus asperiores placeat consectetur commodi ullam",
+            "url": "https://via.placeholder.com/600/323599",
+          },
+          Object {
+            "albumId": "2",
+            "title": "quia minus sed eveniet accusantium incidunt beatae odio",
+            "url": "https://via.placeholder.com/600/e403d1",
+          },
+          Object {
+            "albumId": "2",
+            "title": "dolorem cumque quo nihil inventore enim",
+            "url": "https://via.placeholder.com/600/65ad4f",
+          },
+          Object {
+            "albumId": "2",
+            "title": "facere animi autem quod dolor",
+            "url": "https://via.placeholder.com/600/4e557c",
+          },
+          Object {
+            "albumId": "2",
+            "title": "doloremque culpa quia",
+            "url": "https://via.placeholder.com/600/cd5a92",
+          },
+          Object {
+            "albumId": "2",
+            "title": "sed voluptatum enim eaque cumque qui sunt",
+            "url": "https://via.placeholder.com/600/149540",
+          },
+          Object {
+            "albumId": "2",
+            "title": "provident rerum voluptatem illo asperiores qui maiores",
+            "url": "https://via.placeholder.com/600/ee0a7e",
+          },
+          Object {
+            "albumId": "2",
+            "title": "veritatis labore ipsum unde aut quam dolores",
+            "url": "https://via.placeholder.com/600/1279e9",
+          },
+          Object {
+            "albumId": "2",
+            "title": "architecto aut quod qui ullam vitae expedita delectus",
+            "url": "https://via.placeholder.com/600/e9603b",
+          },
+          Object {
+            "albumId": "2",
+            "title": "et autem dolores aut porro est qui",
+            "url": "https://via.placeholder.com/600/46e3b1",
+          },
+          Object {
+            "albumId": "2",
+            "title": "quam quos dolor eum ea in",
+            "url": "https://via.placeholder.com/600/7375af",
+          },
+          Object {
+            "albumId": "2",
+            "title": "illo qui vel laboriosam vel fugit deserunt",
+            "url": "https://via.placeholder.com/600/363789",
+          },
+          Object {
+            "albumId": "2",
+            "title": "iusto sint enim nesciunt facilis exercitationem",
+            "url": "https://via.placeholder.com/600/45935c",
+          },
+          Object {
+            "albumId": "2",
+            "title": "rerum exercitationem libero dolor",
+            "url": "https://via.placeholder.com/600/1224bd",
+          },
+          Object {
+            "albumId": "2",
+            "title": "eligendi quas consequatur aut consequuntur",
+            "url": "https://via.placeholder.com/600/65ac19",
+          },
+          Object {
+            "albumId": "2",
+            "title": "aut magni quibusdam cupiditate ea",
+            "url": "https://via.placeholder.com/600/a9ef52",
+          },
+          Object {
+            "albumId": "2",
+            "title": "magni nulla et dolores",
+            "url": "https://via.placeholder.com/600/7644fe",
+          },
+          Object {
+            "albumId": "2",
+            "title": "ipsum consequatur vel omnis mollitia repellat dolores quasi",
+            "url": "https://via.placeholder.com/600/36d137",
+          },
+          Object {
+            "albumId": "2",
+            "title": "aperiam aut est amet tenetur et dolorem",
+            "url": "https://via.placeholder.com/600/637984",
+          },
+          Object {
+            "albumId": "2",
+            "title": "est vel et laboriosam quo aspernatur distinctio molestiae",
+            "url": "https://via.placeholder.com/600/c611a9",
+          },
+          Object {
+            "albumId": "2",
+            "title": "et corrupti nihil cumque",
+            "url": "https://via.placeholder.com/600/a0c998",
+          },
+          Object {
+            "albumId": "2",
+            "title": "error magni fugiat dolorem impedit molestiae illo ullam debitis",
+            "url": "https://via.placeholder.com/600/31a74c",
+          },
+          Object {
+            "albumId": "2",
+            "title": "voluptate voluptas molestias vitae illo iusto",
+            "url": "https://via.placeholder.com/600/88b703",
+          },
+          Object {
+            "albumId": "2",
+            "title": "quia quasi enim voluptatem repellat sit sint",
+            "url": "https://via.placeholder.com/600/a19891",
+          },
+          Object {
+            "albumId": "2",
+            "title": "aliquam dolorem ut modi ratione et assumenda impedit",
+            "url": "https://via.placeholder.com/600/b5205d",
+          },
+          Object {
+            "albumId": "2",
+            "title": "ullam delectus architecto sint error",
+            "url": "https://via.placeholder.com/600/eb7e7f",
+          },
+          Object {
+            "albumId": "2",
+            "title": "qui vel ut odio consequuntur",
+            "url": "https://via.placeholder.com/600/fd5751",
+          },
+          Object {
+            "albumId": "2",
+            "title": "eos nihil sunt accusantium omnis",
+            "url": "https://via.placeholder.com/600/224566",
+          },
+          Object {
+            "albumId": "2",
+            "title": "inventore veritatis magnam enim quasi",
+            "url": "https://via.placeholder.com/600/75334a",
+          },
+          Object {
+            "albumId": "2",
+            "title": "id at cum incidunt nulla dolor vero tenetur",
+            "url": "https://via.placeholder.com/600/21d35",
+          },
+          Object {
+            "albumId": "2",
+            "title": "et quae eligendi vitae maxime in",
+            "url": "https://via.placeholder.com/600/bfe0dc",
+          },
+          Object {
+            "albumId": "2",
+            "title": "sunt quo laborum commodi porro consequatur nam delectus et",
+            "url": "https://via.placeholder.com/600/40591",
+          },
+          Object {
+            "albumId": "2",
+            "title": "quod non quae",
+            "url": "https://via.placeholder.com/600/de79c7",
+          },
+          Object {
+            "albumId": "2",
+            "title": "molestias et aliquam natus repellendus accusamus dolore",
+            "url": "https://via.placeholder.com/600/2edde0",
+          },
+          Object {
+            "albumId": "2",
+            "title": "et quisquam aspernatur",
+            "url": "https://via.placeholder.com/600/cc12f5",
+          },
+          Object {
+            "albumId": "2",
+            "title": "magni odio non",
+            "url": "https://via.placeholder.com/600/9cda61",
+          },
+          Object {
+            "albumId": "2",
+            "title": "dolore esse a in eos sed",
+            "url": "https://via.placeholder.com/600/1fb08b",
+          },
+          Object {
+            "albumId": "2",
+            "title": "labore magnam officiis nemo et",
+            "url": "https://via.placeholder.com/600/e2223e",
+          },
+          Object {
+            "albumId": "2",
+            "title": "sed commodi libero id nesciunt modi vitae",
+            "url": "https://via.placeholder.com/600/a77d08",
+          },
+          Object {
+            "albumId": "2",
+            "title": "magnam dolor sed enim vel optio consequuntur",
+            "url": "https://via.placeholder.com/600/b04f2e",
+          },
+          Object {
+            "albumId": "2",
+            "title": "et qui rerum",
+            "url": "https://via.placeholder.com/600/14ba42",
+          },
+        ],
+        "title": "sunt qui excepturi placeat culpa",
+        "userId": "1",
+      },
+      Object {
+        "id": "3",
+        "photos": Array [],
+        "title": "omnis laborum odio",
+        "userId": "1",
+      },
+      Object {
+        "id": "4",
+        "photos": Array [],
+        "title": "non esse culpa molestiae omnis sed optio",
+        "userId": "1",
+      },
+      Object {
+        "id": "5",
+        "photos": Array [],
+        "title": "eaque aut omnis a",
+        "userId": "1",
+      },
+      Object {
+        "id": "6",
+        "photos": Array [],
+        "title": "natus impedit quibusdam illo est",
+        "userId": "1",
+      },
+      Object {
+        "id": "7",
+        "photos": Array [],
+        "title": "quibusdam autem aliquid et et quia",
+        "userId": "1",
+      },
+      Object {
+        "id": "8",
+        "photos": Array [],
+        "title": "qui fuga est a eum",
+        "userId": "1",
+      },
+      Object {
+        "id": "9",
+        "photos": Array [],
+        "title": "saepe unde necessitatibus rem",
+        "userId": "1",
+      },
+      Object {
+        "id": "10",
+        "photos": Array [],
+        "title": "distinctio laborum qui",
+        "userId": "1",
+      },
+      Object {
+        "id": "11",
+        "photos": Array [],
+        "title": "quam nostrum impedit mollitia quod et dolor",
+        "userId": "2",
+      },
+      Object {
+        "id": "12",
+        "photos": Array [],
+        "title": "consequatur autem doloribus natus consectetur",
+        "userId": "2",
+      },
+      Object {
+        "id": "13",
+        "photos": Array [],
+        "title": "ab rerum non rerum consequatur ut ea unde",
+        "userId": "2",
+      },
+      Object {
+        "id": "14",
+        "photos": Array [],
+        "title": "ducimus molestias eos animi atque nihil",
+        "userId": "2",
+      },
+      Object {
+        "id": "15",
+        "photos": Array [],
+        "title": "ut pariatur rerum ipsum natus repellendus praesentium",
+        "userId": "2",
+      },
+      Object {
+        "id": "16",
+        "photos": Array [],
+        "title": "voluptatem aut maxime inventore autem magnam atque repellat",
+        "userId": "2",
+      },
+      Object {
+        "id": "17",
+        "photos": Array [],
+        "title": "aut minima voluptatem ut velit",
+        "userId": "2",
+      },
+      Object {
+        "id": "18",
+        "photos": Array [],
+        "title": "nesciunt quia et doloremque",
+        "userId": "2",
+      },
+      Object {
+        "id": "19",
+        "photos": Array [],
+        "title": "velit pariatur quaerat similique libero omnis quia",
+        "userId": "2",
+      },
+      Object {
+        "id": "20",
+        "photos": Array [],
+        "title": "voluptas rerum iure ut enim",
+        "userId": "2",
+      },
+    ],
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;
+
+exports[`[testing album queries] GET_ONE_ALBUM with existing album 1`] = `
+Object {
+  "data": Object {
+    "album": Object {
+      "id": "1",
+      "photos": Array [
+        Object {
+          "url": "https://via.placeholder.com/600/92c952",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/771796",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/24f355",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/d32776",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/f66b97",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/56a8c2",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/b0f7cc",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/54176f",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/51aa97",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/810b14",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/1ee8a4",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/66b7d2",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/197d29",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/61a65",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/f9cee5",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/fdf73e",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/9c184f",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/1fe46f",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/56acb2",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/8985dc",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/5e12c6",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/45601a",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/e924e6",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/8f209a",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/5e3a73",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/474645",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/c984bf",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/392537",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/602b9e",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/372c93",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/a7c272",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/c70a4d",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/501fe1",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/35185e",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/c96cad",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/4d564d",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/ea51da",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/4f5b8d",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/1e71a2",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/3a0b95",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/659403",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/ca50ac",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/6ad437",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/29fe9f",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/c4084a",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/e9b68",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/b4412f",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/68e0a8",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/2cd88b",
+        },
+        Object {
+          "url": "https://via.placeholder.com/600/9e59da",
+        },
+      ],
+      "title": "quidem molestiae enim",
+      "userId": "1",
+    },
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;
+
+exports[`[testing album queries] GET_ONE_ALBUM with not existing album 1`] = `
+Object {
+  "data": Object {
+    "album": Object {
+      "error": "Error",
+      "message": "Album with the id 999 not exists",
+    },
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;

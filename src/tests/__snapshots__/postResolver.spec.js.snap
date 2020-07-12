@@ -1,0 +1,397 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[testing post queries] CREATE_POST 1`] = `
+Object {
+  "data": Object {
+    "createPost": Object {
+      "body": "testing body",
+      "id": "654321",
+      "title": "testing title",
+      "userId": "1",
+    },
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;
+
+exports[`[testing post queries] GET_ALL_POSTS 1`] = `
+Object {
+  "data": Object {
+    "posts": Array [
+      Object {
+        "body": "quia et suscipit
+suscipit recusandae consequuntur expedita et cum
+reprehenderit molestiae ut ut quas totam
+nostrum rerum est autem sunt rem eveniet architecto",
+        "comments": Array [
+          Object {
+            "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos
+tempora quo necessitatibus
+dolor quam autem quasi
+reiciendis et nam sapiente accusantium",
+            "email": "Eliseo@gardner.biz",
+            "id": "1",
+            "name": "id labore ex et quam laborum",
+            "postId": "1",
+          },
+          Object {
+            "body": "est natus enim nihil est dolore omnis voluptatem numquam
+et omnis occaecati quod ullam at
+voluptatem error expedita pariatur
+nihil sint nostrum voluptatem reiciendis et",
+            "email": "Jayne_Kuhic@sydney.com",
+            "id": "2",
+            "name": "quo vero reiciendis velit similique earum",
+            "postId": "1",
+          },
+          Object {
+            "body": "quia molestiae reprehenderit quasi aspernatur
+aut expedita occaecati aliquam eveniet laudantium
+omnis quibusdam delectus saepe quia accusamus maiores nam est
+cum et ducimus et vero voluptates excepturi deleniti ratione",
+            "email": "Nikita@garfield.biz",
+            "id": "3",
+            "name": "odio adipisci rerum aut animi",
+            "postId": "1",
+          },
+          Object {
+            "body": "non et atque
+occaecati deserunt quas accusantium unde odit nobis qui voluptatem
+quia voluptas consequuntur itaque dolor
+et qui rerum deleniti ut occaecati",
+            "email": "Lew@alysha.tv",
+            "id": "4",
+            "name": "alias odio sit",
+            "postId": "1",
+          },
+          Object {
+            "body": "harum non quasi et ratione
+tempore iure ex voluptates in ratione
+harum architecto fugit inventore cupiditate
+voluptates magni quo et",
+            "email": "Hayden@althea.biz",
+            "id": "5",
+            "name": "vero eaque aliquid doloribus et culpa",
+            "postId": "1",
+          },
+        ],
+        "id": "1",
+        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+        "userId": "1",
+      },
+      Object {
+        "body": "est rerum tempore vitae
+sequi sint nihil reprehenderit dolor beatae ea dolores neque
+fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis
+qui aperiam non debitis possimus qui neque nisi nulla",
+        "comments": Array [
+          Object {
+            "body": "doloribus at sed quis culpa deserunt consectetur qui praesentium
+accusamus fugiat dicta
+voluptatem rerum ut voluptate autem
+voluptatem repellendus aspernatur dolorem in",
+            "email": "Presley.Mueller@myrl.com",
+            "id": "6",
+            "name": "et fugit eligendi deleniti quidem qui sint nihil autem",
+            "postId": "2",
+          },
+          Object {
+            "body": "maiores sed dolores similique labore et inventore et
+quasi temporibus esse sunt id et
+eos voluptatem aliquam
+aliquid ratione corporis molestiae mollitia quia et magnam dolor",
+            "email": "Dallas@ole.me",
+            "id": "7",
+            "name": "repellat consequatur praesentium vel minus molestias voluptatum",
+            "postId": "2",
+          },
+          Object {
+            "body": "ut voluptatem corrupti velit
+ad voluptatem maiores
+et nisi velit vero accusamus maiores
+voluptates quia aliquid ullam eaque",
+            "email": "Mallory_Kunze@marie.org",
+            "id": "8",
+            "name": "et omnis dolorem",
+            "postId": "2",
+          },
+          Object {
+            "body": "sapiente assumenda molestiae atque
+adipisci laborum distinctio aperiam et ab ut omnis
+et occaecati aspernatur odit sit rem expedita
+quas enim ipsam minus",
+            "email": "Meghan_Littel@rene.us",
+            "id": "9",
+            "name": "provident id voluptas",
+            "postId": "2",
+          },
+          Object {
+            "body": "voluptate iusto quis nobis reprehenderit ipsum amet nulla
+quia quas dolores velit et non
+aut quia necessitatibus
+nostrum quaerat nulla et accusamus nisi facilis",
+            "email": "Carmen_Keeling@caroline.name",
+            "id": "10",
+            "name": "eaque et deleniti atque tenetur ut quo ut",
+            "postId": "2",
+          },
+        ],
+        "id": "2",
+        "title": "qui est esse",
+        "userId": "1",
+      },
+      Object {
+        "body": "et iusto sed quo iure
+voluptatem occaecati omnis eligendi aut ad
+voluptatem doloribus vel accusantium quis pariatur
+molestiae porro eius odio et labore et velit aut",
+        "comments": Array [],
+        "id": "3",
+        "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+        "userId": "1",
+      },
+      Object {
+        "body": "ullam et saepe reiciendis voluptatem adipisci
+sit amet autem assumenda provident rerum culpa
+quis hic commodi nesciunt rem tenetur doloremque ipsam iure
+quis sunt voluptatem rerum illo velit",
+        "comments": Array [],
+        "id": "4",
+        "title": "eum et est occaecati",
+        "userId": "1",
+      },
+      Object {
+        "body": "repudiandae veniam quaerat sunt sed
+alias aut fugiat sit autem sed est
+voluptatem omnis possimus esse voluptatibus quis
+est aut tenetur dolor neque",
+        "comments": Array [],
+        "id": "5",
+        "title": "nesciunt quas odio",
+        "userId": "1",
+      },
+      Object {
+        "body": "ut aspernatur corporis harum nihil quis provident sequi
+mollitia nobis aliquid molestiae
+perspiciatis et ea nemo ab reprehenderit accusantium quas
+voluptate dolores velit et doloremque molestiae",
+        "comments": Array [],
+        "id": "6",
+        "title": "dolorem eum magni eos aperiam quia",
+        "userId": "1",
+      },
+      Object {
+        "body": "dolore placeat quibusdam ea quo vitae
+magni quis enim qui quis quo nemo aut saepe
+quidem repellat excepturi ut quia
+sunt ut sequi eos ea sed quas",
+        "comments": Array [],
+        "id": "7",
+        "title": "magnam facilis autem",
+        "userId": "1",
+      },
+      Object {
+        "body": "dignissimos aperiam dolorem qui eum
+facilis quibusdam animi sint suscipit qui sint possimus cum
+quaerat magni maiores excepturi
+ipsam ut commodi dolor voluptatum modi aut vitae",
+        "comments": Array [],
+        "id": "8",
+        "title": "dolorem dolore est ipsam",
+        "userId": "1",
+      },
+      Object {
+        "body": "consectetur animi nesciunt iure dolore
+enim quia ad
+veniam autem ut quam aut nobis
+et est aut quod aut provident voluptas autem voluptas",
+        "comments": Array [],
+        "id": "9",
+        "title": "nesciunt iure omnis dolorem tempora et accusantium",
+        "userId": "1",
+      },
+      Object {
+        "body": "quo et expedita modi cum officia vel magni
+doloribus qui repudiandae
+vero nisi sit
+quos veniam quod sed accusamus veritatis error",
+        "comments": Array [],
+        "id": "10",
+        "title": "optio molestias id quia eum",
+        "userId": "1",
+      },
+      Object {
+        "body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus
+accusamus in eum beatae sit
+vel qui neque voluptates ut commodi qui incidunt
+ut animi commodi",
+        "comments": Array [],
+        "id": "11",
+        "title": "et ea vero quia laudantium autem",
+        "userId": "2",
+      },
+      Object {
+        "body": "itaque id aut magnam
+praesentium quia et ea odit et ea voluptas et
+sapiente quia nihil amet occaecati quia id voluptatem
+incidunt ea est distinctio odio",
+        "comments": Array [],
+        "id": "12",
+        "title": "in quibusdam tempore odit est dolorem",
+        "userId": "2",
+      },
+      Object {
+        "body": "aut dicta possimus sint mollitia voluptas commodi quo doloremque
+iste corrupti reiciendis voluptatem eius rerum
+sit cumque quod eligendi laborum minima
+perferendis recusandae assumenda consectetur porro architecto ipsum ipsam",
+        "comments": Array [],
+        "id": "13",
+        "title": "dolorum ut in voluptas mollitia et saepe quo animi",
+        "userId": "2",
+      },
+      Object {
+        "body": "fuga et accusamus dolorum perferendis illo voluptas
+non doloremque neque facere
+ad qui dolorum molestiae beatae
+sed aut voluptas totam sit illum",
+        "comments": Array [],
+        "id": "14",
+        "title": "voluptatem eligendi optio",
+        "userId": "2",
+      },
+      Object {
+        "body": "reprehenderit quos placeat
+velit minima officia dolores impedit repudiandae molestiae nam
+voluptas recusandae quis delectus
+officiis harum fugiat vitae",
+        "comments": Array [],
+        "id": "15",
+        "title": "eveniet quod temporibus",
+        "userId": "2",
+      },
+      Object {
+        "body": "suscipit nam nisi quo aperiam aut
+asperiores eos fugit maiores voluptatibus quia
+voluptatem quis ullam qui in alias quia est
+consequatur magni mollitia accusamus ea nisi voluptate dicta",
+        "comments": Array [],
+        "id": "16",
+        "title": "sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio",
+        "userId": "2",
+      },
+      Object {
+        "body": "eos voluptas et aut odit natus earum
+aspernatur fuga molestiae ullam
+deserunt ratione qui eos
+qui nihil ratione nemo velit ut aut id quo",
+        "comments": Array [],
+        "id": "17",
+        "title": "fugit voluptas sed molestias voluptatem provident",
+        "userId": "2",
+      },
+      Object {
+        "body": "eveniet quo quis
+laborum totam consequatur non dolor
+ut et est repudiandae
+est voluptatem vel debitis et magnam",
+        "comments": Array [],
+        "id": "18",
+        "title": "voluptate et itaque vero tempora molestiae",
+        "userId": "2",
+      },
+      Object {
+        "body": "illum quis cupiditate provident sit magnam
+ea sed aut omnis
+veniam maiores ullam consequatur atque
+adipisci quo iste expedita sit quos voluptas",
+        "comments": Array [],
+        "id": "19",
+        "title": "adipisci placeat illum aut reiciendis qui",
+        "userId": "2",
+      },
+      Object {
+        "body": "qui consequuntur ducimus possimus quisquam amet similique
+suscipit porro ipsam amet
+eos veritatis officiis exercitationem vel fugit aut necessitatibus totam
+omnis rerum consequatur expedita quidem cumque explicabo",
+        "comments": Array [],
+        "id": "20",
+        "title": "doloribus ad provident suscipit at",
+        "userId": "2",
+      },
+    ],
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;
+
+exports[`[testing post queries] GET_ONE_POST with existing post 1`] = `
+Object {
+  "data": Object {
+    "post": Object {
+      "body": "quia et suscipit
+suscipit recusandae consequuntur expedita et cum
+reprehenderit molestiae ut ut quas totam
+nostrum rerum est autem sunt rem eveniet architecto",
+      "comments": Array [
+        Object {
+          "name": "id labore ex et quam laborum",
+        },
+        Object {
+          "name": "quo vero reiciendis velit similique earum",
+        },
+        Object {
+          "name": "odio adipisci rerum aut animi",
+        },
+        Object {
+          "name": "alias odio sit",
+        },
+        Object {
+          "name": "vero eaque aliquid doloribus et culpa",
+        },
+      ],
+      "id": "1",
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "userId": "1",
+    },
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;
+
+exports[`[testing post queries] GET_ONE_POST with no existing post 1`] = `
+Object {
+  "data": Object {
+    "post": Object {
+      "error": "Error",
+      "message": "Post with the id 999 not exists",
+    },
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;

@@ -1,0 +1,990 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[testing user queries] GET_ALL_USERS 1`] = `
+Object {
+  "data": Object {
+    "users": Array [
+      Object {
+        "address": Object {
+          "geo": Object {
+            "lat": "-37.3159",
+          },
+          "street": "Kulas Light",
+        },
+        "albums": Array [
+          Object {
+            "id": "1",
+            "photos": Array [
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/92c952",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/771796",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/24f355",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/d32776",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/f66b97",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/56a8c2",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/b0f7cc",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/54176f",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/51aa97",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/810b14",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/1ee8a4",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/66b7d2",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/197d29",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/61a65",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/f9cee5",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/fdf73e",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/9c184f",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/1fe46f",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/56acb2",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/8985dc",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/5e12c6",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/45601a",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/e924e6",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/8f209a",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/5e3a73",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/474645",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/c984bf",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/392537",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/602b9e",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/372c93",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/a7c272",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/c70a4d",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/501fe1",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/35185e",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/c96cad",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/4d564d",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/ea51da",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/4f5b8d",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/1e71a2",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/3a0b95",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/659403",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/ca50ac",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/6ad437",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/29fe9f",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/c4084a",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/e9b68",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/b4412f",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/68e0a8",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/2cd88b",
+              },
+              Object {
+                "albumId": "1",
+                "url": "https://via.placeholder.com/600/9e59da",
+              },
+            ],
+            "title": "quidem molestiae enim",
+            "userId": "1",
+          },
+          Object {
+            "id": "2",
+            "photos": Array [
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/8e973b",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/121fa4",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/6efc5f",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/aa8f2e",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/5e04a4",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/f9f067",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/95acce",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/cde4c1",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/a46a91",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/323599",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/e403d1",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/65ad4f",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/4e557c",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/cd5a92",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/149540",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/ee0a7e",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/1279e9",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/e9603b",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/46e3b1",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/7375af",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/363789",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/45935c",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/1224bd",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/65ac19",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/a9ef52",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/7644fe",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/36d137",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/637984",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/c611a9",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/a0c998",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/31a74c",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/88b703",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/a19891",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/b5205d",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/eb7e7f",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/fd5751",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/224566",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/75334a",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/21d35",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/bfe0dc",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/40591",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/de79c7",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/2edde0",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/cc12f5",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/9cda61",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/1fb08b",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/e2223e",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/a77d08",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/b04f2e",
+              },
+              Object {
+                "albumId": "2",
+                "url": "https://via.placeholder.com/600/14ba42",
+              },
+            ],
+            "title": "sunt qui excepturi placeat culpa",
+            "userId": "1",
+          },
+          Object {
+            "id": "3",
+            "photos": Array [],
+            "title": "omnis laborum odio",
+            "userId": "1",
+          },
+          Object {
+            "id": "4",
+            "photos": Array [],
+            "title": "non esse culpa molestiae omnis sed optio",
+            "userId": "1",
+          },
+          Object {
+            "id": "5",
+            "photos": Array [],
+            "title": "eaque aut omnis a",
+            "userId": "1",
+          },
+          Object {
+            "id": "6",
+            "photos": Array [],
+            "title": "natus impedit quibusdam illo est",
+            "userId": "1",
+          },
+          Object {
+            "id": "7",
+            "photos": Array [],
+            "title": "quibusdam autem aliquid et et quia",
+            "userId": "1",
+          },
+          Object {
+            "id": "8",
+            "photos": Array [],
+            "title": "qui fuga est a eum",
+            "userId": "1",
+          },
+          Object {
+            "id": "9",
+            "photos": Array [],
+            "title": "saepe unde necessitatibus rem",
+            "userId": "1",
+          },
+          Object {
+            "id": "10",
+            "photos": Array [],
+            "title": "distinctio laborum qui",
+            "userId": "1",
+          },
+        ],
+        "company": Object {
+          "name": "Romaguera-Crona",
+        },
+        "email": "Sincere@april.biz",
+        "id": "1",
+        "name": "Leanne Graham",
+        "posts": Array [
+          Object {
+            "body": "quia et suscipit
+suscipit recusandae consequuntur expedita et cum
+reprehenderit molestiae ut ut quas totam
+nostrum rerum est autem sunt rem eveniet architecto",
+            "comments": Array [
+              Object {
+                "name": "id labore ex et quam laborum",
+              },
+              Object {
+                "name": "quo vero reiciendis velit similique earum",
+              },
+              Object {
+                "name": "odio adipisci rerum aut animi",
+              },
+              Object {
+                "name": "alias odio sit",
+              },
+              Object {
+                "name": "vero eaque aliquid doloribus et culpa",
+              },
+            ],
+            "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+            "userId": "1",
+          },
+          Object {
+            "body": "est rerum tempore vitae
+sequi sint nihil reprehenderit dolor beatae ea dolores neque
+fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis
+qui aperiam non debitis possimus qui neque nisi nulla",
+            "comments": Array [
+              Object {
+                "name": "et fugit eligendi deleniti quidem qui sint nihil autem",
+              },
+              Object {
+                "name": "repellat consequatur praesentium vel minus molestias voluptatum",
+              },
+              Object {
+                "name": "et omnis dolorem",
+              },
+              Object {
+                "name": "provident id voluptas",
+              },
+              Object {
+                "name": "eaque et deleniti atque tenetur ut quo ut",
+              },
+            ],
+            "title": "qui est esse",
+            "userId": "1",
+          },
+          Object {
+            "body": "et iusto sed quo iure
+voluptatem occaecati omnis eligendi aut ad
+voluptatem doloribus vel accusantium quis pariatur
+molestiae porro eius odio et labore et velit aut",
+            "comments": Array [],
+            "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+            "userId": "1",
+          },
+          Object {
+            "body": "ullam et saepe reiciendis voluptatem adipisci
+sit amet autem assumenda provident rerum culpa
+quis hic commodi nesciunt rem tenetur doloremque ipsam iure
+quis sunt voluptatem rerum illo velit",
+            "comments": Array [],
+            "title": "eum et est occaecati",
+            "userId": "1",
+          },
+          Object {
+            "body": "repudiandae veniam quaerat sunt sed
+alias aut fugiat sit autem sed est
+voluptatem omnis possimus esse voluptatibus quis
+est aut tenetur dolor neque",
+            "comments": Array [],
+            "title": "nesciunt quas odio",
+            "userId": "1",
+          },
+          Object {
+            "body": "ut aspernatur corporis harum nihil quis provident sequi
+mollitia nobis aliquid molestiae
+perspiciatis et ea nemo ab reprehenderit accusantium quas
+voluptate dolores velit et doloremque molestiae",
+            "comments": Array [],
+            "title": "dolorem eum magni eos aperiam quia",
+            "userId": "1",
+          },
+          Object {
+            "body": "dolore placeat quibusdam ea quo vitae
+magni quis enim qui quis quo nemo aut saepe
+quidem repellat excepturi ut quia
+sunt ut sequi eos ea sed quas",
+            "comments": Array [],
+            "title": "magnam facilis autem",
+            "userId": "1",
+          },
+          Object {
+            "body": "dignissimos aperiam dolorem qui eum
+facilis quibusdam animi sint suscipit qui sint possimus cum
+quaerat magni maiores excepturi
+ipsam ut commodi dolor voluptatum modi aut vitae",
+            "comments": Array [],
+            "title": "dolorem dolore est ipsam",
+            "userId": "1",
+          },
+          Object {
+            "body": "consectetur animi nesciunt iure dolore
+enim quia ad
+veniam autem ut quam aut nobis
+et est aut quod aut provident voluptas autem voluptas",
+            "comments": Array [],
+            "title": "nesciunt iure omnis dolorem tempora et accusantium",
+            "userId": "1",
+          },
+          Object {
+            "body": "quo et expedita modi cum officia vel magni
+doloribus qui repudiandae
+vero nisi sit
+quos veniam quod sed accusamus veritatis error",
+            "comments": Array [],
+            "title": "optio molestias id quia eum",
+            "userId": "1",
+          },
+        ],
+        "todos": Array [
+          Object {
+            "completed": false,
+            "title": "delectus aut autem",
+          },
+          Object {
+            "completed": false,
+            "title": "quis ut nam facilis et officia qui",
+          },
+          Object {
+            "completed": false,
+            "title": "fugiat veniam minus",
+          },
+          Object {
+            "completed": true,
+            "title": "et porro tempora",
+          },
+          Object {
+            "completed": false,
+            "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+          },
+          Object {
+            "completed": false,
+            "title": "qui ullam ratione quibusdam voluptatem quia omnis",
+          },
+          Object {
+            "completed": false,
+            "title": "illo expedita consequatur quia in",
+          },
+          Object {
+            "completed": true,
+            "title": "quo adipisci enim quam ut ab",
+          },
+          Object {
+            "completed": false,
+            "title": "molestiae perspiciatis ipsa",
+          },
+          Object {
+            "completed": true,
+            "title": "illo est ratione doloremque quia maiores aut",
+          },
+          Object {
+            "completed": true,
+            "title": "vero rerum temporibus dolor",
+          },
+          Object {
+            "completed": true,
+            "title": "ipsa repellendus fugit nisi",
+          },
+          Object {
+            "completed": false,
+            "title": "et doloremque nulla",
+          },
+          Object {
+            "completed": true,
+            "title": "repellendus sunt dolores architecto voluptatum",
+          },
+          Object {
+            "completed": true,
+            "title": "ab voluptatum amet voluptas",
+          },
+          Object {
+            "completed": true,
+            "title": "accusamus eos facilis sint et aut voluptatem",
+          },
+          Object {
+            "completed": true,
+            "title": "quo laboriosam deleniti aut qui",
+          },
+          Object {
+            "completed": false,
+            "title": "dolorum est consequatur ea mollitia in culpa",
+          },
+          Object {
+            "completed": true,
+            "title": "molestiae ipsa aut voluptatibus pariatur dolor nihil",
+          },
+          Object {
+            "completed": true,
+            "title": "ullam nobis libero sapiente ad optio sint",
+          },
+        ],
+      },
+      Object {
+        "address": Object {
+          "geo": Object {
+            "lat": "-43.9509",
+          },
+          "street": "Victor Plains",
+        },
+        "albums": Array [
+          Object {
+            "id": "11",
+            "photos": Array [],
+            "title": "quam nostrum impedit mollitia quod et dolor",
+            "userId": "2",
+          },
+          Object {
+            "id": "12",
+            "photos": Array [],
+            "title": "consequatur autem doloribus natus consectetur",
+            "userId": "2",
+          },
+          Object {
+            "id": "13",
+            "photos": Array [],
+            "title": "ab rerum non rerum consequatur ut ea unde",
+            "userId": "2",
+          },
+          Object {
+            "id": "14",
+            "photos": Array [],
+            "title": "ducimus molestias eos animi atque nihil",
+            "userId": "2",
+          },
+          Object {
+            "id": "15",
+            "photos": Array [],
+            "title": "ut pariatur rerum ipsum natus repellendus praesentium",
+            "userId": "2",
+          },
+          Object {
+            "id": "16",
+            "photos": Array [],
+            "title": "voluptatem aut maxime inventore autem magnam atque repellat",
+            "userId": "2",
+          },
+          Object {
+            "id": "17",
+            "photos": Array [],
+            "title": "aut minima voluptatem ut velit",
+            "userId": "2",
+          },
+          Object {
+            "id": "18",
+            "photos": Array [],
+            "title": "nesciunt quia et doloremque",
+            "userId": "2",
+          },
+          Object {
+            "id": "19",
+            "photos": Array [],
+            "title": "velit pariatur quaerat similique libero omnis quia",
+            "userId": "2",
+          },
+          Object {
+            "id": "20",
+            "photos": Array [],
+            "title": "voluptas rerum iure ut enim",
+            "userId": "2",
+          },
+        ],
+        "company": Object {
+          "name": "Deckow-Crist",
+        },
+        "email": "Shanna@melissa.tv",
+        "id": "2",
+        "name": "Ervin Howell",
+        "posts": Array [
+          Object {
+            "body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus
+accusamus in eum beatae sit
+vel qui neque voluptates ut commodi qui incidunt
+ut animi commodi",
+            "comments": Array [],
+            "title": "et ea vero quia laudantium autem",
+            "userId": "2",
+          },
+          Object {
+            "body": "itaque id aut magnam
+praesentium quia et ea odit et ea voluptas et
+sapiente quia nihil amet occaecati quia id voluptatem
+incidunt ea est distinctio odio",
+            "comments": Array [],
+            "title": "in quibusdam tempore odit est dolorem",
+            "userId": "2",
+          },
+          Object {
+            "body": "aut dicta possimus sint mollitia voluptas commodi quo doloremque
+iste corrupti reiciendis voluptatem eius rerum
+sit cumque quod eligendi laborum minima
+perferendis recusandae assumenda consectetur porro architecto ipsum ipsam",
+            "comments": Array [],
+            "title": "dolorum ut in voluptas mollitia et saepe quo animi",
+            "userId": "2",
+          },
+          Object {
+            "body": "fuga et accusamus dolorum perferendis illo voluptas
+non doloremque neque facere
+ad qui dolorum molestiae beatae
+sed aut voluptas totam sit illum",
+            "comments": Array [],
+            "title": "voluptatem eligendi optio",
+            "userId": "2",
+          },
+          Object {
+            "body": "reprehenderit quos placeat
+velit minima officia dolores impedit repudiandae molestiae nam
+voluptas recusandae quis delectus
+officiis harum fugiat vitae",
+            "comments": Array [],
+            "title": "eveniet quod temporibus",
+            "userId": "2",
+          },
+          Object {
+            "body": "suscipit nam nisi quo aperiam aut
+asperiores eos fugit maiores voluptatibus quia
+voluptatem quis ullam qui in alias quia est
+consequatur magni mollitia accusamus ea nisi voluptate dicta",
+            "comments": Array [],
+            "title": "sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio",
+            "userId": "2",
+          },
+          Object {
+            "body": "eos voluptas et aut odit natus earum
+aspernatur fuga molestiae ullam
+deserunt ratione qui eos
+qui nihil ratione nemo velit ut aut id quo",
+            "comments": Array [],
+            "title": "fugit voluptas sed molestias voluptatem provident",
+            "userId": "2",
+          },
+          Object {
+            "body": "eveniet quo quis
+laborum totam consequatur non dolor
+ut et est repudiandae
+est voluptatem vel debitis et magnam",
+            "comments": Array [],
+            "title": "voluptate et itaque vero tempora molestiae",
+            "userId": "2",
+          },
+          Object {
+            "body": "illum quis cupiditate provident sit magnam
+ea sed aut omnis
+veniam maiores ullam consequatur atque
+adipisci quo iste expedita sit quos voluptas",
+            "comments": Array [],
+            "title": "adipisci placeat illum aut reiciendis qui",
+            "userId": "2",
+          },
+          Object {
+            "body": "qui consequuntur ducimus possimus quisquam amet similique
+suscipit porro ipsam amet
+eos veritatis officiis exercitationem vel fugit aut necessitatibus totam
+omnis rerum consequatur expedita quidem cumque explicabo",
+            "comments": Array [],
+            "title": "doloribus ad provident suscipit at",
+            "userId": "2",
+          },
+        ],
+        "todos": Array [
+          Object {
+            "completed": false,
+            "title": "suscipit repellat esse quibusdam voluptatem incidunt",
+          },
+          Object {
+            "completed": true,
+            "title": "distinctio vitae autem nihil ut molestias quo",
+          },
+          Object {
+            "completed": false,
+            "title": "et itaque necessitatibus maxime molestiae qui quas velit",
+          },
+          Object {
+            "completed": false,
+            "title": "adipisci non ad dicta qui amet quaerat doloribus ea",
+          },
+          Object {
+            "completed": true,
+            "title": "voluptas quo tenetur perspiciatis explicabo natus",
+          },
+          Object {
+            "completed": true,
+            "title": "aliquam aut quasi",
+          },
+          Object {
+            "completed": true,
+            "title": "veritatis pariatur delectus",
+          },
+          Object {
+            "completed": false,
+            "title": "nesciunt totam sit blanditiis sit",
+          },
+          Object {
+            "completed": false,
+            "title": "laborum aut in quam",
+          },
+          Object {
+            "completed": true,
+            "title": "nemo perspiciatis repellat ut dolor libero commodi blanditiis omnis",
+          },
+          Object {
+            "completed": false,
+            "title": "repudiandae totam in est sint facere fuga",
+          },
+          Object {
+            "completed": false,
+            "title": "earum doloribus ea doloremque quis",
+          },
+          Object {
+            "completed": false,
+            "title": "sint sit aut vero",
+          },
+          Object {
+            "completed": false,
+            "title": "porro aut necessitatibus eaque distinctio",
+          },
+          Object {
+            "completed": true,
+            "title": "repellendus veritatis molestias dicta incidunt",
+          },
+          Object {
+            "completed": true,
+            "title": "excepturi deleniti adipisci voluptatem et neque optio illum ad",
+          },
+          Object {
+            "completed": false,
+            "title": "sunt cum tempora",
+          },
+          Object {
+            "completed": false,
+            "title": "totam quia non",
+          },
+          Object {
+            "completed": false,
+            "title": "doloremque quibusdam asperiores libero corrupti illum qui omnis",
+          },
+          Object {
+            "completed": true,
+            "title": "totam atque quo nesciunt",
+          },
+        ],
+      },
+    ],
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;
+
+exports[`[testing user queries] GET_ONE_USER with existing user 1`] = `
+Object {
+  "data": Object {
+    "user": Object {
+      "company": Object {
+        "name": "Romaguera-Crona",
+      },
+      "id": "1",
+      "name": "Leanne Graham",
+    },
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;
+
+exports[`[testing user queries] GET_ONE_USER with no existing user 1`] = `
+Object {
+  "data": Object {
+    "user": Object {
+      "error": "Error",
+      "message": "User with the id 999 not exists",
+    },
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;
